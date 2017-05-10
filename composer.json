@@ -1,0 +1,17 @@
+{
+    "name": "root/gereciador-financas",
+    "authors": [
+        {
+            "name": "Bruno Ferreira",
+            "email": "fs.brunoferreira@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "0.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fin\\": "src/"
+        }
+    }
+}
