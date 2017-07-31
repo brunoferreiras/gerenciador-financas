@@ -7,7 +7,7 @@ return [
         'database' => 'gerenciador_financeiro',
         'username' => 'root',
         'password' => 'root',
-        'charset' => 'utf-8',
-        'collation' => 'utf8-unicode_ci'
+        'charset' => 'utf8',
+        'collation' => 'utf8_unicode_ci'
     ]
 ];
