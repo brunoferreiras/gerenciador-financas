@@ -13,5 +13,8 @@
         "psr-4": {
             "Fin\\": "src/"
         }
+    },
+    "require-dev": {
+        "fzaninotto/faker": "1.6.0"
     }
 }
